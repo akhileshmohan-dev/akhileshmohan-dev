@@ -1,5 +1,18 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>I'm a Computer Science and Business Systems student at **Rajagiri School of Engineering & Technology (RSET), Kochi**, with a strong interest in **Artificial Intelligence, Machine Learning, and Data Science**.<br><br>I enjoy working with data, building machine learning solutions, and developing practical applications that solve real-world problems. I've worked on projects involving **healthcare AI, data pipelines, computer vision, and high-performance computing**.<br><br>Currently, I'm strengthening my foundations in **Python, Machine Learning, Data Science, and Deep Learning** through coursework, problem-solving, and hands-on projects.<br><br>I'm always interested in learning new technologies, building meaningful projects, and improving my problem-solving skills.
+## 👨‍💻 About Me
+
+I'm a **Computer Science and Business Systems student at RSET, Kochi**, focused on **Artificial Intelligence, Machine Learning, and Data Science**.
+
+I enjoy building practical solutions involving **data processing, predictive modeling, computer vision, and AI-powered applications**.
+
+Currently strengthening my foundations in **Python, Machine Learning, Data Science, and Deep Learning** through hands-on projects and continuous learning.
+
+## 🚀 What I'm Working On
+
+- 🤖 Machine Learning & AI applications
+- 📊 Data Science and data analysis
+- 🔬 Predictive analytics and computer vision
+- ⚡ C++, CUDA & parallel computing
+- 💻 AI-powered full-stack applications
 
 
 ## 🌐 Socials:
